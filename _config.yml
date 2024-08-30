@@ -4,6 +4,8 @@ url: https://nayamec.github.io/studies/ # root address of the site
 description: > # description of the site (multiple lines allowed)
   Compartilhamento de conhecimentos
 
+markdown: kramdown
+
 permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
