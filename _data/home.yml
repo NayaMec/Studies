@@ -10,7 +10,7 @@ navbar_entries:
 
 project_entries:
   - title: Francês
-    url: about.md
+    url: https://nayamec.github.io/studies/soopr
     desc: This is an example project, configured in _data/home.yml
 
   - title: Project 2
