@@ -1,4 +1,8 @@
-<audio controls>
-    <source src="{{ include.src | relative_url }}" type="audio/mpeg">
-    Seu navegador não suporta o elemento de áudio.
-  </audio>
+<audio id="audio-embed" src="{{ include.src }}" preload="auto"></audio>
+
+<script>
+function playAudio() {
+    var audio = document.getElementById('audio-embed');
+    audio.play();
+}
+</script>
