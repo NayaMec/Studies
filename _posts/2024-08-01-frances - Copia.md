@@ -128,24 +128,3 @@ Antes de começarmos a aprender as regras de pronúncia, vamos nos familiarizar 
  
  Professour
 {% include audio_embed.html src="/audios/professour.mp3" %}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
