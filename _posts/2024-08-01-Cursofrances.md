@@ -180,7 +180,7 @@ A ênfase de uma palavra geralmente recai sobre a última sílaba. Por favor, ou
 # Dicas
 
 As vogais “o” e “e” mudam muito de som. Não é necessário conhecê-los de cor no início de sua jornada de aprendizado.
-① quando “o” carrega a marca circunflexa e aparece como “ô”:
+1. quando “o” carrega a marca circunflexa e aparece como “ô”:
 - Tôt
     {% include audio_embed.html src="/audios/tot.mp3" %}
     
@@ -195,7 +195,7 @@ As vogais “o” e “e” mudam muito de som. Não é necessário conhecê-los
 - Métro
     {% include audio_embed.html src="/audios/metro.mp3" %}
 
-    ③ antes do som consonantal [z]:
+2. antes do som consonantal [z]:
 
 - Chose
     {% include audio_embed.html src="/audios/chose.mp3" %}
@@ -203,7 +203,7 @@ As vogais “o” e “e” mudam muito de som. Não é necessário conhecê-los
 - Rose
      {% include audio_embed.html src="/audios/rose.mp3" %}
 
-1. "o" é pronunciado [ɔ] quando está antes de outras consoantes:
+3. "o" é pronunciado [ɔ] quando está antes de outras consoantes:
 
 - Ordinateur
       {% include audio_embed.html src="/audios/ordinateur.mp3" %}
