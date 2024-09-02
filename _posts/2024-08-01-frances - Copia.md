@@ -42,7 +42,7 @@ tags: [idiomas, francês]
 {% include audio_embed.html src="/audios/Qq.mp3" %}
 <p>Rr</p>
 {% include audio_embed.html src="/audios/Rr.mp3" %}
-<p>Ss</p
+<p>Ss</p>
 {% include audio_embed.html src="/audios/Ss.mp3" %}
 <p>Tt</p>
 {% include audio_embed.html src="/audios/Tt.mp3" %}
@@ -59,8 +59,8 @@ tags: [idiomas, francês]
 <p>Zz</p>
 {% include audio_embed.html src="/audios/Zz.mp3" %}
 </div> </details>
-<table style="table-layout: fixed; width: 100%;">
 
+<table style="table-layout: fixed; width: 100%;">
 <tr>
     <th style="width: 150px;">Alfabeto</th>
     <td>Aa</td>
@@ -117,8 +117,9 @@ tags: [idiomas, francês]
     <td></td>
     <td></td>
   </tr>
-</table>
+</table> 
 
+# 
 Algumas letras aparecem com acentos, como "à", "é", "î" etc; aprenderemos mais sobre suas funções em uma seção dedicada aos acentos.
 
 Antes de começarmos a aprender as regras de pronúncia, vamos nos familiarizar com alguns conceitos importantes sobre fonética primeiro.
