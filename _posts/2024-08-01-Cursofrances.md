@@ -201,12 +201,12 @@ As vogais “o” e “e” mudam muito de som. Não é necessário conhecê-los
     {% include audio_embed.html src="/audios/chose.mp3" %}
     
 - Rose
-    {% include audio_embed.html src="/audios/rose.mp3" %}
+     {% include audio_embed.html src="/audios/rose.mp3" %}
 
     ④ "o" é pronunciado [ɔ] quando está antes de outras consoantes:
 
 - Ordinateur
-    {% include audio_embed.html src="/audios/ordinateur.mp3" %}
+      {% include audio_embed.html src="/audios/ordinateur.mp3" %}
     
 - Professour
-    {% include audio_embed.html src="/audios/professor.mp3" %}
+       {% include audio_embed.html src="/audios/professor.mp3" %}
