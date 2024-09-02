@@ -118,3 +118,33 @@ tags: [idiomas, francês]
     <td></td>
   </tr>
 </table>
+
+Algumas letras aparecem com acentos, como "à", "é", "î" etc; aprenderemos mais sobre suas funções em uma seção dedicada aos acentos.
+
+Antes de começarmos a aprender as regras de pronúncia, vamos nos familiarizar com alguns conceitos importantes sobre fonética primeiro.
+
+##Sílabas
+ Em geral, o número de vogais em uma palavra indica seu número de sílabas. Uma sílaba pode ser aberta ou fechada, dependendo de sua pronúncia final. Veja a palavra "professor" em francês:
+ 
+ Professour
+{% include audio_embed.html src="/audios/professour.mp3" %}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
