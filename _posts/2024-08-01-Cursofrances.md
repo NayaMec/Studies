@@ -129,3 +129,84 @@ Antes de começarmos a aprender as regras de pronúncia, vamos nos familiarizar 
  
  Professour
 {% include audio_embed.html src="/audios/professour.mp3" %}
+
+Podemos ouvir 3 sílabas. As duas primeiras sílabas são abertas porque terminam com vogais, e a última sílaba é fechada porque termina com a consoante [r].
+
+### Atenção: Embora muitas palavras em francês terminem com consoantes, essas consoantes não são pronunciadas. Isso significa que precisamos confiar na pronúncia real de uma palavra em vez de sua grafia para descobrir a característica aberta ou fechada da sílaba.
+
+## Ênfase
+A ênfase de uma palavra geralmente recai sobre a última sílaba. Por favor, ouça os exemplos de palavras abaixo.
+
+- Étudiant
+    {% include audio_embed.html src="/audios/estudante.mp3" %}
+- Français
+    {% include audio_embed.html src="/audios/frances.mp3" %} 
+
+ Os padrões de pronúncia do francês podem ser bastante complicados para iniciantes; existem alguns padrões e também exceções. Esta introdução cobre alguns dos padrões mais comuns.
+
+ # Vogais
+
+ 1. A vogal “a” e suas variações com acentos, como “â” ou “à”, são geralmente pronunciadas [a]. Por exemplo:
+- Pas
+    {% include audio_embed.html src="/audios/pas.mp3" %}
+    
+- Pâle
+   {% include audio_embed.html src="/audios/pale.mp3" %}
+    
+- à
+    {% include audio_embed.html src="/audios/á.mp3" %}
+
+2. A vogal "e" é pronunciada por padrão :    
+- Le
+    {% include audio_embed.html src="/audios/le.mp3" %}
+    
+- Premier
+    {% include audio_embed.html src="/audios/premier.mp3" %}
+    
+3. As vogais "o" são geralmente pronunciadas [ɔ] or [o]:
+- Porte
+    {% include audio_embed.html src="/audios/porte.mp3" %}
+    
+- Rose
+    {% include audio_embed.html src="/audios/rose.mp3" %}
+
+4. As vogais "u, û, ü" são geralmente pronunciadas [y]:
+- Sur
+    {% include audio_embed.html src="/audios/sur.mp3" %}
+    
+- Sûr
+    {% include audio_embed.html src="/audios/sur.mp3" %}
+
+# Dicas
+
+As vogais “o” e “e” mudam muito de som. Não é necessário conhecê-los de cor no início de sua jornada de aprendizado.
+① quando “o” carrega a marca circunflexa e aparece como “ô”:
+- Tôt
+    {% include audio_embed.html src="/audios/tot.mp3" %}
+    
+- Allô
+    {% include audio_embed.html src="/audios/allo.mp3" %}
+
+    ② em uma sílaba aberta no final da palavra:
+
+- Stylo
+    {% include audio_embed.html src="/audios/stylo.mp3" %}
+    
+- Métro
+    {% include audio_embed.html src="/audios/metro.mp3" %}
+
+    ③ antes do som consonantal [z]:
+
+- Chose
+    {% include audio_embed.html src="/audios/chose.mp3" %}
+    
+- Rose
+    {% include audio_embed.html src="/audios/rose.mp3" %}
+
+    ④ "o" é pronunciado [ɔ] quando está antes de outras consoantes:
+
+- Ordinateur
+    {% include audio_embed.html src="/audios/ordinateur.mp3" %}
+    
+- Professour
+    {% include audio_embed.html src="/audios/professor.mp3" %}
